@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <h1>a</h1>
 </html>
